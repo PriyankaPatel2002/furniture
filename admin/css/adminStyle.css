@@ -1,0 +1,36 @@
+/* header section start */
+.header {
+  height: 100px;
+  width: 100%;
+  background-color: #3b5d50;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.header .navbar-nav .nav-item {
+  padding: 0px 15px;
+  position: relative;
+}
+.header a.nav-link {
+  color: rgba(255, 255, 255, .5);
+}
+
+/* header section end */
+/*----user-list section sytart--------*/
+.user-table{
+  padding: 100px 0px;
+}
+.table>:not(caption)>*>* {
+  padding: 1.5rem 0.5rem !important;
+}
+.add-product{
+  padding: 100px 0px;
+}
+/*sign-form-start*/
+.update-form{
+  padding: 100px 0px;
+}
+
+/*------login page start-------*/
